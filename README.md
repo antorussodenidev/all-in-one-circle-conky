@@ -1,5 +1,5 @@
 # all-in-one-circle-conky
-this is a widget which is based on conky which has the same look as LG G3 style.
+This is a widget which is based on conky which has the same look as LG G3 style.
 
 This is the preview of the widget:  
 ![input](https://github.com/deathcod/all-in-one-circle-conky/blob/master/Screenshot%20from%202016-05-04%2003:20:55.png)
@@ -28,4 +28,3 @@ In the earlier version on All-in-one conky there was slight issue as the window 
 * change of the window size and positions of underling objects and also managed the flickering issue.
 * changed the earlier used yahoo api to openweathermap api as yahoo api had been reconfigured and didnot support the direct access to api.
 * included the icons as per the openweathermap site.
-
