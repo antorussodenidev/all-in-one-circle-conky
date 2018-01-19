@@ -8,6 +8,7 @@ This is the preview of the widget:
 
 from software center install conky-all  
 then install  
+
 ``` 
 sudo apt-add-repository ppa:teejee2008/ppa  
 sudo apt-get update && sudo apt-get install conky-manager
@@ -15,7 +16,9 @@ sudo apt-get update && sudo apt-get install conky-manager
 
 after having done you can now enjoy this widget.  
 open conky-manager through terminal  
+
 ``` $conky-manager ```  
+
 open zip file through conky-manager.  
 and its ready to use.But few this to do before use change the key and city name,go to the website ``` http://openweathermap.org/ ``` get the key and replace, now you will be able to see the temperature and weather condition.
 
